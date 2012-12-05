@@ -1,0 +1,6 @@
+*pyc
+*~
+*#
+myenv
+main/migrations
+local_settings.py
